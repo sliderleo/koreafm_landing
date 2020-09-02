@@ -2,4 +2,4 @@
 ## Live Preview
 
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)** 
+**[View Live Preview](https://sliderleo.github.io/koreafm_landing/)** 
